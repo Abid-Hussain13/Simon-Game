@@ -3,11 +3,7 @@
 A web-based implementation of the classic **Simon Game** using **HTML**, **CSS**, and **JavaScript**. Test your memory and see how long you can keep up with the pattern!
 
 ## 🔗 Live Demo
-
-[Play the game here](https://your-github-username.github.io/simon-game/)  
-_(Update this link after deploying with GitHub Pages)_
-
----
+http://127.0.0.1:5500/Drum%20Kit%20Starting%20Files/index.html
 
 
 ## 🧠 How to Play
