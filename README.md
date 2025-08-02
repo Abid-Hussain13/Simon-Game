@@ -1,12 +1,12 @@
-# Simon Game 🎮
+Simon Game 🎮
 
-A web-based implementation of the classic **Simon Game** using **HTML**, **CSS**, and **JavaScript**. Test your memory and see how long you can keep up with the pattern!
+A web-based implementation of the classic **Simon Game** using HTML, CSS, and JavaScript. Test your memory and see how long you can keep up with the pattern!
 
-## 🔗 Live Demo
-http://127.0.0.1:5500/Drum%20Kit%20Starting%20Files/index.html
+🔗 Live Demo
+\https://abid-hussain13.github.io/Simon-Game/
 
 
-## 🧠 How to Play
+🧠 How to Play
 
 1. Press any key to start the game.
 2. Watch the pattern of button flashes and sounds.
@@ -16,11 +16,11 @@ http://127.0.0.1:5500/Drum%20Kit%20Starting%20Files/index.html
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-- **HTML** – Page structure
-- **CSS** – Styling and animations
-- **JavaScript** – Game logic and interactivity
-- **jQuery** – Simplified DOM manipulation and event handling
-- **Audio** – Button sounds and wrong-answer effect
+- HTML – Page structure
+- CSS – Styling and animations
+- JavaScript – Game logic and interactivity
+- jQuery – Simplified DOM manipulation and event handling
+- Audio – Button sounds and wrong-answer effect
   
